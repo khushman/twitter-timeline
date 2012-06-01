@@ -6,3 +6,10 @@ This is the possible plan for the steps which I believe should follow.
 1.3) Extend this for more bubbles in one line.
 1.4) Make the bubbles balance each other out on both sides of the line.
 2) Get the data from Twitter. This will obviously be using their JSON interface. Update this data into the timeline. (We'll elaborate this later)
+
+Stage 1:
+Agendas for making timeline:
+1) Design of the Twitter Timeline.
+2) Size and Width of the <div> blocks.
+3) Embedd pictures and videos?? How?
+4) Replies to a tweet (or Conversations). MUST.

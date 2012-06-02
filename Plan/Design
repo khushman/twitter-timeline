@@ -1,0 +1,7 @@
+What should our basic design be?
+A replica of the facebook timeline?
+
+I think a horizontal bar, with small thumbnails for posts, which can then be expanded will be better. That way, even if a user has a large number of posts, it won't be a problem. Plus atleast i'm bored of the vertical timeline.
+This will have a left or right navigation based on the tweet times in descending order.
+
+Plus, we'll be using HTML5 and CSS3, so apart from FF, Chrome & Safari, we don't worry about design compatibility, right?

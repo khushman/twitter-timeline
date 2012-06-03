@@ -5,3 +5,6 @@ I think a horizontal bar, with small thumbnails for posts, which can then be exp
 This will have a left or right navigation based on the tweet times in descending order.
 
 Plus, we'll be using HTML5 and CSS3, so apart from FF, Chrome & Safari, we don't worry about design compatibility, right?
+
+Horizontal line would be a great idea, we can do a vertical/horizontal line. Vertical line is bring a feel of the old timeline so that peopl will get comfortable 
+and Horizontal line would be something new. But the thing is how are we going to show the posts in Horizontal timeline?

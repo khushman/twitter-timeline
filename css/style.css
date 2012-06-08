@@ -53,7 +53,10 @@ ol.timelineblock {
 
 	background: #fff;
 	border: 1px solid #c4cde0;
-	
+
+	-moz-border-radius:3px; 
+	border-radius:3px; 
+	webkit-border-radius:3px; 	
 }
 
 .borders {

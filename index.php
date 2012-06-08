@@ -20,48 +20,30 @@
 	<ol class = "timelineblock">
 
 	  <li> 
-	    <div class="time">Yesterday</div>
-	    <span class="corner"></span>
+	    <div>Yesterday</div>
 	    <p>just had a lunch ...</p>
 	  </li>
 
-	  <li>
-	    <div class="time">about an hour ago</div>
-	    <span class="corner"></span>
-	    <p>play football</p>
-	  </li>
-
-
-	  <li>
-	    <div class="time">about an hour ago</div>
-	    <span class="corner"></span>
-	    <p>play football</p>
+	  <li> 
+	    <div>Yesterday</div>
+	    <p>just had a lunch ...</p>
 	  </li>
 
 	  <li> 
-	    <div class="time">Yesterday</div>
-	    <span class="corner"></span>
-	    <p>just had a lunch ...<br/></p>
+	    <div>Yesterday</div>
+	    <p>just had a lunch ...</p>
 	  </li>
 
-	  <li>
-	    <div class="time">about an hour ago</div>
-	    <span class="corner"></span>
-	    <p>play football</p>
-	  </li>
- 	
 	  <li> 
-	    <div class="time">Yesterday</div>
-	    <span class="corner"></span>
-	    <p>just had a lunch ...<br/></p>
+	    <div>Yesterday</div>
+	    <p>just had a lunch ...</p>
 	  </li>
 
-	  <li>
-	    <div class="time">about an hour ago</div>
-	    <span class="corner"></span>
-	    <p>play football</p>
+	  <li> 
+	    <div>Yesterday</div>
+	    <p>just had a lunch ...</p>
 	  </li>
-
+	 
 
 
 	</ol>

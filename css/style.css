@@ -1,11 +1,15 @@
 body {
 	background: url(../images/bg.gif);
-	min-width: 960px;
+	min-width: 860px;
+}
+
+p {
+	padding: 0;
 }
 
 .maincontainer {
 	padding: 10px;
-	width: 960px;
+	width: 860px;
 	margin-left: auto;
 	margin-right: auto;
 	
@@ -28,7 +32,7 @@ body {
 .timeline {
 	margin-left: 50%;
 	height: 99%;
-	width: 4px;
+	width: 3px;
 	background: #c3ccdf;	
 	position: absolute;
 }
@@ -42,15 +46,15 @@ ol.timelineblock {
 	margin: 0px;
 	margin-top: 30px;
 	list-style-type: none;
-	width: 960px;	
+	width: 860px;	
 	
 }
 
 .timelineblock li {
 	position: relative;
-	padding: 15px;
+	padding: 5px;
 	margin: 0px;
-	width: 370px;
+	width: 380px;
 
 	background: #fff;
 	border: 1px solid #c4cde0;
@@ -58,6 +62,16 @@ ol.timelineblock {
 	-moz-border-radius:3px; 
 	border-radius:3px; 
 	webkit-border-radius:3px; 
+}
+
+.timelineblock p {
+	padding: 7px 0 7px 0;
+	margin: 0px;
+}
+
+#edge {
+	position: absolute;
+	padding: 0px;
 }
 
 .redge {
@@ -73,7 +87,7 @@ ol.timelineblock {
 .ledge {
 	display: block;
 	margin:0px;
-	margin-left: -38px;
+	margin-left: -28px;
 
 	width:23px;
 	height:15px;

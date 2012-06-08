@@ -20,26 +20,31 @@
 	<ol class = "timelineblock">
 
 	  <li> 
+   	    <span id="edge"></span>
 	    <div>Yesterday</div>
 	    <p>just had a lunch ...</p>
 	  </li>
 
 	  <li> 
+   	    <span id = "edge"></span>
 	    <div>Yesterday</div>
 	    <p>just had a lunch ...</p>
 	  </li>
 
 	  <li> 
+   	    <span id="edge"></span>
 	    <div>Yesterday</div>
 	    <p>just had a lunch ...</p>
 	  </li>
 
 	  <li> 
+   	    <span id="edge"></span>
 	    <div>Yesterday</div>
 	    <p>just had a lunch ...</p>
 	  </li>
 
 	  <li> 
+   	    <span id="edge"></span>
 	    <div>Yesterday</div>
 	    <p>just had a lunch ...</p>
 	  </li>
@@ -49,12 +54,15 @@
 	</ol>
 
 <script>
-$(".timelineblock li:odd").css("margin", "0px 0 20px 65px");
+$(function(){
+	$(".timelineblock li:odd").css("margin", "0px 0 20px 65px");
+	$(".timelineblock li:even").css("margin", "0px 0 20px 65px");
+	$(".timelineblock li:odd").css("float", "right").css("margin-right", "60px").css("clear", "both");
 
-$(".timelineblock li:even").css("margin", "0px 0 20px 65px");
+	$(".timelineblock li:odd").children("span#edge").addClass("ledge");
+	$(".timelineblock li:even").children("span#edge").addClass("redge");
 
-$(".timelineblock li:odd").css("float", "right").css("margin-right", "60px").css("clear", "both");
-
+});
 </script>
 	
 	</div> 

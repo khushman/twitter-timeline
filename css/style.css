@@ -47,6 +47,7 @@ ol.timelineblock {
 }
 
 .timelineblock li {
+	position: relative;
 	padding: 15px;
 	margin: 0px;
 	width: 370px;
@@ -56,7 +57,27 @@ ol.timelineblock {
 
 	-moz-border-radius:3px; 
 	border-radius:3px; 
-	webkit-border-radius:3px; 	
+	webkit-border-radius:3px; 
+}
+
+.redge {
+	display: block;
+	margin:0px;
+	margin-left: 385px;
+
+	width:20px;
+	height:15px;
+	background: url(../images/right.png);
+}
+
+.ledge {
+	display: block;
+	margin:0px;
+	margin-left: -38px;
+
+	width:23px;
+	height:15px;
+	background: url(../images/left.png);
 }
 
 .borders {
